@@ -1,4 +1,4 @@
---- title: Contact Info layout: default --- Feel free to contact me at <frank.muzio@uconn.edu>. 
+Feel free to contact me at <frank.muzio@uconn.edu>. 
 
 Postal address: 
 
