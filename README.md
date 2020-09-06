@@ -3,7 +3,7 @@
 [My CV](PDFs/cv.pdf) 
 [Contact Info](contact-info.html) 
 
-Instagram: <https://www.instagram.com/muzio.wildlifephotography/>
+Instagram: [@muzio.wildlifephotography] (<https://www.instagram.com/muzio.wildlifephotography/>)
 ![Image of Peregrin Falcon](images/Peregrin.jpg) 
 ![Image of Swainson's Hawk](images/Swainsons.jpg) 
 ![Image of Hummingbird](images/HB.jpg) 
