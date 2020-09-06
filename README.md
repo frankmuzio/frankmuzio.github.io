@@ -4,10 +4,14 @@
 [Contact Info](contact-info.html) 
 
 Instagram: [[@muzio.wildlifephotography](https://www.instagram.com/muzio.wildlifephotography/)]
+
+![Image of GH](images/GH.jpg) 
 ![Image of Peregrin Falcon](images/Peregrin.jpg) 
+
 ![Image of Swainson's Hawk](images/Swainsons.jpg) 
 ![Image of Hummingbird](images/HB.jpg) 
-![Image of GH](images/GH.jpg) 
+
 ![Image of BC](images/BC.jpg)
 ![Image of Bear](images/Bear.JPG)
+
 ![Image of B](images/Badger.JPG)
