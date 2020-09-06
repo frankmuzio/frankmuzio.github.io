@@ -9,5 +9,5 @@
 ![Image of Hummingbird](images/HB.jpg) 
 ![Image of GH](images/GH.jpg) 
 ![Image of BC](images/BC.jpg)
-![Image of Bear](images/Bear.jpg)
-![Image of B](images/Badger.jpg)
+![Image of Bear](images/Bear.JPG)
+![Image of B](images/Badger.JPG)
